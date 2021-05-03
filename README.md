@@ -36,3 +36,19 @@ Shader code [Wave.shader](Assets/Shaders/Wave/Wave.shader)
 <img src="Screenshots/line.png"/>
 
 Shader code [Line.shader](Assets/Shaders/Line/Line.shader)
+
+## Lesson 13. Unions and Intersection
+
+<img src="Screenshots/union.png"/>
+
+<img src="Screenshots/intersection.png"/>
+
+Shader code [Union.shader](Assets/Shaders/Union/Union.shader)
+
+Shader code [Intersection.shader](Assets/Shaders/Intersection/Intersection.shader)
+
+## Lesson 14. Circle
+
+<img src="Screenshots/circle.png"/>
+
+Shader code [Circle.shader](Assets/Shaders/Circle/Circle.shader)
